@@ -1,0 +1,8 @@
+title: 98song.GitHub.io
+description: 新人小宋的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
